@@ -13,6 +13,7 @@
 		3D59ABC72826E36900D4BDD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D59ABC52826E36900D4BDD2 /* Main.storyboard */; };
 		3D59ABC92826E36900D4BDD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D59ABC82826E36900D4BDD2 /* Assets.xcassets */; };
 		3D59ABCC2826E36900D4BDD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D59ABCA2826E36900D4BDD2 /* LaunchScreen.storyboard */; };
+		3D59ABD42826E59100D4BDD2 /* ViewColorSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D59ABD32826E59100D4BDD2 /* ViewColorSystem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3D59ABC82826E36900D4BDD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D59ABCB2826E36900D4BDD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D59ABCD2826E36900D4BDD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D59ABD32826E59100D4BDD2 /* ViewColorSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewColorSystem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3D59ABC82826E36900D4BDD2 /* Assets.xcassets */,
 				3D59ABCA2826E36900D4BDD2 /* LaunchScreen.storyboard */,
 				3D59ABCD2826E36900D4BDD2 /* Info.plist */,
+				3D59ABD32826E59100D4BDD2 /* ViewColorSystem.swift */,
 			);
 			path = ProjectHomeWorkTwo;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				3D59ABC42826E36900D4BDD2 /* ViewController.swift in Sources */,
 				3D59ABC02826E36900D4BDD2 /* AppDelegate.swift in Sources */,
 				3D59ABC22826E36900D4BDD2 /* SceneDelegate.swift in Sources */,
+				3D59ABD42826E59100D4BDD2 /* ViewColorSystem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
